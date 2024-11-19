@@ -1,5 +1,4 @@
-# DEPI-Final-Project
-A data analysis project on "**Supplier Quality Analysis**".
+# **Supplier Quality Analysis**
 
 **Project Overview**: 
 
